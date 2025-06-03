@@ -1,58 +1,17 @@
 {
-  "cars": [
+  "posts": [
     {
-      "brand": "Hyundai",
-      "carId": 1305,
-      "imageUrl": "https://i.cdn.newsbytesapp.com/images/l207_21781623907005.jpg",
-      "locationId": 2,
-      "name": "Creta SX",
-      "pricingDescription": "2800/day",
-      "registeredOn": "2025-05-10T00:29:30.7",
-      "locationTitle": "Kharadi, Pune",
-      "carAccessoriess": []
+      "id": 1,
+      "title": "Post 1"
     },
     {
-      "brand": "Grand Vitara",
-      "carId": 1303,
-      "imageUrl": "https://imgd.aeplcdn.com/370x208/n/cw/ec/123185/grand-vitara-exterior-right-front-three-quarter-4.jpeg?isig=0&q=80",
-      "locationId": 2,
-      "name": "Vitara",
-      "pricingDescription": "2300/day",
-      "registeredOn": "2025-05-08T23:47:21.257",
-      "locationTitle": "Kharadi, Pune",
-      "carAccessoriess": [
-        {
-          "accessoriesId": 1307,
-          "accessoriesTitle": "Automatic",
-          "showOnWebsite": true,
-          "carId": 1303
-        }
-      ]
+      "id": 2,
+      "title": "Post 2"
     },
     {
-      "brand": "Maruti Suzuki",
-      "carId": 1300,
-      "imageUrl": "https://zoomcar-assets.zoomcar.com/37471/HostCarImage/37471_host_car_image_374714405909e-83f5-4b42-a9b5-1c1e709ed612c1395525-74a8-4757-867d-b7f10c3e3bef.jpg",
-      "locationId": 15,
-      "name": "Balino",
-      "pricingDescription": "220",
-      "registeredOn": "2025-02-09T11:24:16.39",
-      "locationTitle": "Zoom Location",
-      "carAccessoriess": [
-        {
-          "accessoriesId": 1304,
-          "accessoriesTitle": "BootLight",
-          "showOnWebsite": true,
-          "carId": 1300
-        },
-        {
-          "accessoriesId": 1305,
-          "accessoriesTitle": "Lugage carrer",
-          "showOnWebsite": false,
-          "carId": 1300
-        }
-      ]
-    },
+      "id": 3,
+      "title": "Post 3"
+    }
   ],
   "comments": [
     {
